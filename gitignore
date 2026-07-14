@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+env/
+
+# PyInstaller
+build/
+dist/
+*.spec.bak
+
+# App-specific (checkpoints/outputs generated at runtime)
+*.checkpoint
+*.log
+output/
+temp/
+
+# OS
+.DS_Store
+Thumbs.db
